@@ -1,11 +1,16 @@
 # tabata-exercise-images
 
 Public image host for custom workouts in Tabata Timer (`com.evgeniysharafan.tabatatimer`).
-Each file is referenced by an interval's `url` field via:
+App-facing URLs use the jsDelivr CDN pinned to a commit, `web/` = 1280px JPEG previews
+(33–70 KB, mobile-friendly); root PNGs are the full-size masters:
 
 ```
-https://raw.githubusercontent.com/wangnszh/tabata-exercise-images/main/<file>
+https://cdn.jsdelivr.net/gh/wangnszh/tabata-exercise-images@<commit>/web/<name>.jpg
 ```
+
+`raw.githubusercontent.com` is unreliable from mainland China networks (intermittent
+timeouts, measured 2026-11-21); jsDelivr measured ~1 s for the JPEGs. Fallback edge:
+`gcore.jsdelivr.net` (same path).
 
 | file | 动作 | 说明 |
 | --- | --- | --- |
