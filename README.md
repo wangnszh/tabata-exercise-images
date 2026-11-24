@@ -18,6 +18,7 @@ timeouts, measured 2026-11-21); jsDelivr measured ~1 s for the JPEGs. Fallback e
 | scap_pushup.png | 肩胛俯卧撑 | 直臂平板，实/虚影对比肩胛前伸后缩 |
 | scap_pullup.png | 肩胛引体 | 直臂悬垂，耸肩放松位 vs 下压发力位 |
 | band_side.png | 弹力带双臂+躯干体侧 | 踩带双手握端，侧向伸展 |
+| scap_band_kneeling.png | 跪姿弹力带肩胛提拉 | 跪垫双手握高位锚点弹力带，橙色箭头示意肩胛驱动下拉与缓慢回放 |
 | scap_updown.png | 上下活动肩胛骨 | 肩胛上提/下压，双向箭头 |
 | shoulder_circle_front.png | 前绕肩 | 向前→上→后→下画圈 |
 | shoulder_circle_back.png | 后绕肩 | 向后→上→前→下画圈 |
